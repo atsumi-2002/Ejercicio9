@@ -6,7 +6,7 @@
         <StackLayout Padding="0,20,0,0">
             <Button Text="These buttons" Style="{StaticResource buttonStyle}"/>
             <Button Text="are demonstrating" Style="{StaticResource buttonStyle}"/>
-            <Button Text="application style" Style="{StaticResource buttonStyle}"/>
+            <Button Text="application style override" Style="{StaticResource buttonStyle}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

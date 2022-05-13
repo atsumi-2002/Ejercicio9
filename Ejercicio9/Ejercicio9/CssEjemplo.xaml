@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio9.CssEjemplo">
+    <ContentPage.Resources>
+        <StyleSheetExtension Source="estilos.css"></StyleSheetExtension>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Esto es un ejemplo"
+                x:Name="label1" />
+            <Label Text="de CSS"
+                x:Name="label2" />
+            <Label Text="en Xamarin.Forms"
+                x:Name="label3" />
+            <Button x:Name="button" Text="By Atsumi Amaya"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

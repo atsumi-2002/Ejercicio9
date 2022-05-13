@@ -1,0 +1,26 @@
+﻿#label1 {
+	margin: 10;
+	align: center;
+	color: green;
+	font-family: Arial;
+}
+#label2 {
+	margin: 10;
+	align: center;
+	background-color: green;
+	color: white;
+	font-family: times;
+}
+#label3 {
+	margin: 10;
+	align: center;
+	background-color: red;
+	color: yellow;
+	font-family: courier;
+}
+#button {
+	margin: 10;
+	align: center;
+	background-color: blue;
+	color: white;
+}

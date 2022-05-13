@@ -11,7 +11,7 @@
                     </Style>
                 </ResourceDictionary>
             </StackLayout.Resources>
-            <Label Text="These labels"/>
+            <Entry Text="These entry"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

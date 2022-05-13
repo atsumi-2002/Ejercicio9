@@ -17,7 +17,8 @@ namespace Ejercicio9
             //MainPage = new ImplicitControl();
             //MainPage = new Global();
             //MainPage = new Inheritance();
-            MainPage = new Dynamic();
+            //MainPage = new Dynamic();
+            MainPage = new CssEjemplo();
         }
 
         protected override void OnStart()
